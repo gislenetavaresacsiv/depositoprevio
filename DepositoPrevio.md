@@ -22,7 +22,7 @@ Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo nã
 Note que agora o campo Dt.Recolhimento/Conversão se encontra vazio.
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_3.PNG" />
 
-No dia da prática do ato, <i><b>ex.:</b> Cliente solicitou uma certidão, quando o mesmo for até ao cartório buscar a certidão solicitada</i>, realizaremos a conversão do depósito pelo <i>(Menu > Cartório > Depósito > Prévio).</i>
+No dia da prática do ato, <i><b>ex.:</b> Cliente solicitou uma certidão, quando o mesmo for até ao cartório buscar a certidão solicitada</i>, será realizada a conversão do depósito, podendo ser feita pelo <i>(Menu > Cartório > Depósito > Prévio).</i>
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo.png" width="250" />
 </div>
@@ -33,7 +33,7 @@ Na tela de depósito prévio, procurar o recibo em que a data de conversão ser�
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_1.png" />
 
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_2.PNG" />
-Para converter a data, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Abrir_Calendario.PNG" width="50" /> 
+Para converter a data, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Abrir_Calendario.PNG" width="20" /> 
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_3.PNG" />
 
  Assim que a data for preenchida, o Acsiv perguntará se você realmente deseja atualizar a data da conversão dos atos pendentes.
