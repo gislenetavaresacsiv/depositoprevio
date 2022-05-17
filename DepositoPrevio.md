@@ -22,20 +22,18 @@ Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo nã
 Note que agora o campo Dt.Recolhimento/Conversão se encontra vazio.
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_3.PNG" />
 
-No dia da prática do ato, <i>ex.: Cliente solicitou uma certidão, quando o mesmo for até ao cartório buscar a certidão solicitada</i>, realizaremos a conversão do depósito. Acesse o *(Menu > Cartório > Depósito > Prévio).*
+No dia da prática do ato, <i><b>ex.:</b> Cliente solicitou uma certidão, quando o mesmo for até ao cartório buscar a certidão solicitada</i>, realizaremos a conversão do depósito pelo <i>(Menu > Cartório > Depósito > Prévio).</i>
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo.png" width="250" />
 </div>
 <br>
-A Acsic entende que a data da conversão do depósito prévio acontece, no momento da selagem do ato.
-(colocar a imagem da selagem com o depósito prévio)
 
 Na tela de depósito prévio, procurar o recibo em que a data de conversão será realizada <i>( o recibo pode ser encontrado por todos os itens do Menu > Código, Dt.recibo, Ato, Complemento, Cód.tabela, Dt.conversão, Solicitante e Identificador)</i>, ao encontrar, basta clicar em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Botao_Abrir.png" />
 
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_1.png" />
 
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_2.PNG" />
-Para converter a data, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Abrir_Calendario.PNG width="50"" /> 
+Para converter a data, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Abrir_Calendario.PNG" width="50" /> 
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_3.PNG" />
 
  Assim que a data for preenchida, o Acsiv perguntará se você realmente deseja atualizar a data da conversão dos atos pendentes.
@@ -48,6 +46,10 @@ Para converter a data, clique em <img src="https://github.com/gislenetavaresacsi
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_6.PNG" />
 
  *Obs.:* Caso a Dt. conversão do depósito tenha sido preenchida erroneamente, basta clicar em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Limpar_Datas.PNG" width="50" /> para limpar as datas de conversão.
+ 
+Podemos realizar a conversão do ato diretamente na tela de emissão de selos <i> (Menu > Cartório > Selos eletrônicos > emissão)</i>.
+(colocar a imagem da selagem com o depósito prévio)
+A Acsiv entende que a data da conversão do depósito prévio acontece, no momento da selagem do ato.
  
  Ao abrir o recibo novamente pelo <i>(Menu > Cartório > Recibos)</i> note que o campo Dt. Reconhimento/Conversão foi preenchido com a data da conversão do depósito prévio.
  
