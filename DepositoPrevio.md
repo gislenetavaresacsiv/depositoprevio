@@ -35,7 +35,7 @@ Na tela de depósito prévio, procurar o ato em que a data de conversão será r
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_1.png" />
 
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_2.PNG" />
-Para converter a data, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Abrir_Calendario.PNG" width="20" /> 
+Para converter a data, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Abrir_Calendario.PNG" width="40" /> 
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_3.PNG" />
 
  Assim que a data for preenchida, o Acsiv perguntará se você realmente deseja atualizar a data da conversão dos atos pendentes.
