@@ -1,51 +1,60 @@
-# DEPÓSITO PRÉVIO
+# <p align="center"><b>DEPÓSITO PRÉVIO</b></p>
+<i>Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, o Acsiv possui um módulo específico para isso. Entre em contato com nosso suporte técnico para solicitar configuração.</i>
+<br></br>
+De acordo com a legislação todos os serviços notariais e de registro possuirão o controle de depósito prévio.
+Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo não será explicar os campos que compõe esse formulário – isso será visto no módulo específico – mas sim, o lançamento do depósito prévio. Além disso, todas as informações são fictícias,pois é por meio do recibo que conseguimos selecionar o ato como depósito prévio. 
+<p align="center">Para acessar o recibo <i>(Menu > cartório > Recibos)</i>.</p>
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Tela_inicial.png" width="250" />
+</div>
+<br></br>
+<p>Ao acessar o formulário é possível pesquisar, criar um novo, abrir e excluir um recibo.</p>
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo.PNG" />
 
-De acordo com a legislação todos os serviços notariais e de registros possuirão o controle de depósito prévio.
+<p>Se o recibo já existir, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_Botao_Abrir.PNG" /> Se não, basta clicar em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_Botao_Novo.PNG" />.</p>
 
-Para exemplificar, vamos demonstrar a realização de recibo com depósito prévio. Para acessar o recibo *(Menu > cartório > Recibos).*
-(colocar a imagem Tela_inicial)
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_1.PNG" />
+<p>Realizar o preenchimento do recibo normalmente, inserindo os atos praticados. Em seguida, marcar o checkbox de depósito prévio <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_Checkbox_Deposito_Previo.PNG" width="50" />.</p> 
 
-Ao abrir, conforme imagem, é possível pesquisar, criar um novo, abrir e excluir um recibo.
+<p>Ao definir o ato como depósito prévio, o campo Dt. Recolhimento/Conversão vai apagar a data preenchida, ficando sem data, pois essa data será preenchida quando acontecer a conversão do depósito prévio. Demonstraremos com mais detalhes logo abaixo.
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_2.PNG" /></P>
 
-(Colocar a imagem recibo)
+Note que agora o campo Dt.Recolhimento/Conversão se encontra vazio.
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_3.PNG" />
 
-Se o recibo já existir, abrir ele conforme demonstraremos. Se não, basta clicar em (colocar a imagem Recibo_Botao_Novo)
+No dia da prática do ato, <i><b>ex.:</b> Cliente solicitou uma certidão, quando o mesmo for até ao cartório buscar a certidão solicitada</i>, será realizada a conversão do depósito, podendo ser feita pelo <i>(Menu > Cartório > Depósito > Prévio).</i>
+<div align="center">
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo.png" width="250" />
+</div>
+<br>
 
-(Colocar imagem Recibo_1)
+Na tela de depósito prévio, procurar o recibo em que a data de conversão será realizada <i>( o recibo pode ser encontrado por todos os itens do Menu > Código, Dt.recibo, Ato, Complemento, Cód.tabela, Dt.conversão, Solicitante e Identificador)</i>, ao encontrar, basta clicar em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Botao_Abrir.png" />
 
-Realizar o preenchimento do recibo normalmente, inserindo os atos praticados. Em seguida, marcar o checkbox de depósito prévio (colocar a imagem Recibo_Checkbox_Deposito_Previo)
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_1.png" />
 
-Ao definir o ato como depósito prévio, o campo Dt. Recolhimento/Conversão vai sumir.
-
-(Colocar a imagem Recibo_2)
-Note que agora o campo Dt.Dt. Recolhimento/Conversão se encontra vazio.
-(Colocar a imagem Recibo_3)
-
-No dia da prática do ato, ex.: Quando o cliente for buscar o ato, realizaremos a conversão do depósito. Acesse o *(Menu > Cartório > Depósito > Prévio).*
-(colocar a imagem _Deposito_Previo)
-
-Na tela de depósito prévio, procurar o recibo em que a data de conversão será colocada ( o recibo pode ser encontrado por todos os itens do Menu > Código, Dt.recibo, Ato, Complemento, Cód.tabela, Dt.conversão, Solicitante e Identificador), ao encontrar, basta clicar em (colocar a imagem Deposito_Previo_Botao_Abrir)
-
-(colocar a imagem Deposito_Previo_2)
-
-Para converter a data, clique em (colocar a imagem Deposito_Previo_Abrir_Calendario)
-(colocar a imagem Deposito_Previo_3)
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_2.PNG" />
+Para converter a data, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Abrir_Calendario.PNG" width="20" /> 
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_3.PNG" />
 
  Assim que a data for preenchida, o Acsiv perguntará se você realmente deseja atualizar a data da conversão dos atos pendentes.
- (colocar a imagem Deposito_Previo_4)
+ <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_4.PNG" />
+ 
+ Ao clicar em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Botao_sim.PNG" /> o campo Dt.conversão será preenchido, se não, a data não será atualizada.
+ <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_5.PNG" />
+ 
+ Depois da data preenchida, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_Botao_Salvar.PNG" />
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_6.PNG" />
 
- Ao clicar em (Colocar a imagem Deposito_Previo_Botao_sim) o campo Dt.conversão será preenchido, se não, a data não será atualizada.
- (colocar a imagem Deposito_Previo_5)
-
- Depois da data preenchida, clique em (Colocar a imagem Recibo_Botao_Salvar)
-
- (Colocar a imagem  Deposito_Previo_6)
-
- *Obs.:* Caso a Dt. conversão do depósito tenha sido preenchida erroneamente, basta clicar em (Colocar a imagem Deposito_Previo_Limpar_Dados) para limpar as datas de conversão.
-
- Ao abrir o recibo novamente pelo *(Menu > Cartório > Recibos)* note que o campo Dt. Reconhimento/Conversão foi preenchido.
-
- (colocar a imagem Recibo_Final)
+ *Obs.:* Caso a Dt. conversão do depósito tenha sido preenchida erroneamente, basta clicar em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Limpar_Datas.PNG" width="50" /> para limpar as datas de conversão.
+ 
+Podemos realizar a conversão do ato diretamente na tela de emissão de selos <i> (Menu > Cartório > Selos eletrônicos > emissão)</i>.
+(colocar a imagem da selagem com o depósito prévio)
+A Acsiv entende que a data da conversão do depósito prévio acontece, no momento da selagem do ato.
+ 
+ Ao abrir o recibo novamente pelo <i>(Menu > Cartório > Recibos)</i> note que o campo Dt. Reconhimento/Conversão foi preenchido com a data da conversão do depósito prévio.
+ 
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_Final.PNG" />
+ 
 
 
 
