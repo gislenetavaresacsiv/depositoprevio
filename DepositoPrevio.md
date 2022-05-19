@@ -2,7 +2,7 @@
 <i>Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, o Acsiv possui um módulo específico para isso. Entre em contato com nosso suporte técnico para solicitar configuração.</i>
 <br></br>
 De acordo com a legislação todos os serviços notariais e de registro possuirão o controle de depósito prévio.
-Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo não será explicar os campos que compõe esse formulário – isso será visto no módulo específico – mas sim, o lançamento do depósito prévio. Além disso, todas as informações são fictícias, pois é por meio do recibo que conseguimos selecionar o ato como depósito prévio. 
+Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo não será explicar os campos que compõe esse formulário – isso será visto no módulo específico – mas sim, o lançamento do depósito prévio. mas sim, o lançamento do depósito prévio, pois é por meio do recibo que conseguimos selecionar o ato como depósito prévio. Além disso, todas as informações são fictícias. 
 <p align="center">Para acessar o recibo <i>(Menu > cartório > Recibos)</i>.</p>
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Tela_inicial.png" width="250" />
@@ -78,7 +78,7 @@ Ao informar o número do recibo, o sistema retorna que contém depósito prévio
 
 Após selecionar a opção desejada, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Botao_emitir.PNG" /><br></br>
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Depois_Emitir.PNG" />.<br></br>
-Ao acessar o <i>(Menu > cartório > Depósito prévio)</i> a Dt.conversão já se encontrada preenchida.<br></br>
+Ao acessar o <i>(Menu > cartório > Depósito prévio)</i> a Dt.conversão já se encontra preenchida.<br></br>
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Convertido.PNG" /><br></br>
 Para conferir a data de conversão preenchida no recibo, acesse o <i>(Menu > Cartório > recibos)</i>.<br></br> 
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Recibo_Data_convers%C3%A3o.PNG" /><br></br>
