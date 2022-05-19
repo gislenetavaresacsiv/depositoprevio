@@ -2,7 +2,7 @@
 <i>Caso o cartório trabalhe com controle de senhas através de dispensador manual, impressora de senha ou totem de atendimento, o Acsiv possui um módulo específico para isso. Entre em contato com nosso suporte técnico para solicitar configuração.</i>
 <br></br>
 De acordo com a legislação todos os serviços notariais e de registro possuirão o controle de depósito prévio.
-Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo não será explicar os campos que compõe esse formulário – isso será visto no módulo específico – mas sim, o lançamento do depósito prévio. mas sim, o lançamento do depósito prévio, pois é por meio do recibo que conseguimos selecionar o ato como depósito prévio. Além disso, todas as informações são fictícias. 
+Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo não será explicar os campos que compõe esse formulário – isso será visto no módulo específico – mas sim, o lançamento do depósito prévio, pois é por meio do recibo que conseguimos selecionar o ato como depósito prévio. Além disso, todas as informações são fictícias. 
 <p align="center">Para acessar o recibo <i>(Menu > cartório > Recibos)</i>.</p>
 <div align="center">
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Tela_inicial.png" width="250" />
