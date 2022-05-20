@@ -25,7 +25,7 @@ Para falicitar o processo do dia a dia, é possível definir o ato como depósit
 <br></br>
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Menu_cartorio_Ato.PNG" />
 <br></br>
-Note que ao criar o recibo pelo <i>(Menu > Cartório > Recibos)</i> o mesmo se encontra com a coluna <i>Dep.prévio</i> selecionada.
+Note que ao criar o recibo pelo <i>(Menu > Cartório > Recibos)</i>, com o ato configurado, o mesmo se encontra com a coluna <i>Dep.prévio</i> selecionada.
 <br></br>
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Menu_cartorio_recibo.PNG" />
 
