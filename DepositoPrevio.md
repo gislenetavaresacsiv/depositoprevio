@@ -4,23 +4,17 @@
 De acordo com a legislação todos os serviços notariais e de registro possuirão o controle de depósito prévio.
 Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo não será explicar os campos que compõe esse formulário – isso será visto no módulo específico – mas sim, o lançamento do depósito prévio, pois é por meio do recibo que conseguimos selecionar o ato como depósito prévio. Além disso, todas as informações são fictícias. 
 <p>Para acessar o recibo <i>(Menu > cartório > Recibos)</i>.</p>
-
-<p>Ao acessar o formulário é possível pesquisar, criar um novo, abrir e excluir um recibo.</p>
-<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo.PNG" />
-
-<p>Se o recibo já existir, clique em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_Botao_Abrir.PNG" /> Se não, basta clicar em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_Botao_Novo.PNG" />.</p>
-
-<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_1.PNG" />
-<p>Realize o preenchimento do recibo normalmente, inserindo os atos praticados. Em seguida, marcar o checkbox de depósito prévio <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_Checkbox_Deposito_Previo.PNG" width="50" />.</p> 
-
-<p>Ao definir o ato como depósito prévio, o campo Dt. Recolhimento/Conversão vai apagar, ficando sem data, pois essa data será preenchida quando acontecer a conversão do depósito prévio. Demonstraremos com mais detalhes logo abaixo.
- <br></br>
-<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_2.PNG" /></P>
-
-Note que agora o campo Dt.Recolhimento/Conversão se encontra vazio.
+<br></br>
+<p>Realize o preenchimento do recibo normalmente, inserindo os atos praticados. Conforme imagem:
+ <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_1.PNG" />
+ Perceba que o campo Dt.Recolhimento/Conversão se encontra preenchido com a data do recibo, para ele se tornar um depósito prévio marque o checkbox de depósito prévio.
+ <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_Checkbox_Deposito_Previo.PNG" width="50" />.</p> 
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_2.PNG" />
 <br></br>
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_3.PNG" />
 <br></br>
+<p>Como pode ver após a marcação o campo Dt. Recolhimento/Conversão, ficou sem data, pois a mesma será preenchida quando ocorrer a conversão do depósito prévio.</p>
+ <br></br>
 Para falicitar o processo do dia a dia, é possível definir o ato como depósito prévio pelo <i>(Menu > Cartório > Atos)</i> conforme imagem a seguir:
 <br></br>
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Menu_cartorio_Ato.PNG" />
