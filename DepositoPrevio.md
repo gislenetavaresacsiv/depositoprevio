@@ -4,7 +4,7 @@
 De acordo com a legislação todos os serviços notariais e de registro possuirão o controle de depósito prévio.
 Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo não será explicar os campos que compõe esse formulário – isso será visto no módulo específico – mas sim, o lançamento do depósito prévio, pois é por meio do recibo que conseguimos selecionar o ato como depósito prévio. Além disso, todas as informações são fictícias. 
 <p>Para acessar o recibo <i>(Menu > cartório > Recibos)</i>.</p>
-<br></br>
+
 <p>Ao acessar o formulário é possível pesquisar, criar um novo, abrir e excluir um recibo.</p>
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo.PNG" />
 
@@ -20,12 +20,17 @@ Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo nã
 Note que agora o campo Dt.Recolhimento/Conversão se encontra vazio.
 <br></br>
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo_3.PNG" />
+<br></br>
+Para falicitar o processo do dia a dia, é possível definir o ato como depósito prévio pelo <i>(Menu > Cartório > Atos)</i> conforme imagem a seguir:
+<br></br>
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Menu_cartorio_Ato.PNG" />
+<br></br>
+Note que ao criar o recibo pelo <i>(Menu > Cartório > Recibos)</i> o mesmo se encontra com a coluna <i>Dep.prévio</i> selecionada.
+<br></br>
+<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Menu_cartorio_recibo.PNG" />
 
 No dia da prática do ato, <i><b>ex.:</b> Cliente solicitou uma certidão, quando o mesmo for até ao cartório buscar a certidão solicitada</i>, será realizada a conversão do depósito, podendo ser feita pelo <i>(Menu > Cartório > Depósito > Prévio).</i>
-<div align="center">
-<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo.png" width="250" />
-</div>
-<br>
+<br></br>
 
 Na tela de depósito prévio, procurar o ato em que a data de conversão será realizada, a busca no campo pode ser encontrada pelo <i>(Código, Dt.recibo, Ato, Complemento, Cód.tabela, Dt.conversão, Solicitante e Identificador)</i>, ao encontrar, basta clicar em <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Deposito_Previo_Botao_Abrir.png" />.
 
