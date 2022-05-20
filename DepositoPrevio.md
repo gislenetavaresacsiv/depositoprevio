@@ -3,10 +3,7 @@
 <br></br>
 De acordo com a legislação todos os serviços notariais e de registro possuirão o controle de depósito prévio.
 Para exemplificar, vamos demonstrar o uso do formulário recibos, o objetivo não será explicar os campos que compõe esse formulário – isso será visto no módulo específico – mas sim, o lançamento do depósito prévio, pois é por meio do recibo que conseguimos selecionar o ato como depósito prévio. Além disso, todas as informações são fictícias. 
-<p align="center">Para acessar o recibo <i>(Menu > cartório > Recibos)</i>.</p>
-<div align="center">
-<img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Tela_inicial.png" width="250" />
-</div>
+<p>Para acessar o recibo <i>(Menu > cartório > Recibos)</i>.</p>
 <br></br>
 <p>Ao acessar o formulário é possível pesquisar, criar um novo, abrir e excluir um recibo.</p>
 <img src="https://github.com/gislenetavaresacsiv/depositoprevio/blob/main/Imagens/Recibo.PNG" />
